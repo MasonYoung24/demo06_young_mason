@@ -16,6 +16,12 @@
     /* Light green for secondary backgrounds */
 }
 
+.navbar-brand {
+    font-family: 'Caveat', cursive;
+    /*change the font name for what you have*/
+    font-size: 2.25rem;
+}
+
 .navbar-light .navbar-brand,
 .navbar-light .navbar-nav .nav-link {
     color: #FEFAE0;
