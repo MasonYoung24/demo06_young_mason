@@ -16,6 +16,28 @@
     /* Light green for secondary backgrounds */
 }
 
+.dropdown-toggle {
+    background-color: #FEFAE0;
+    color: black;
+}
+
+#submit{
+    background-color: #BC6C25;
+    border-color: black;
+    border-width: 2px;
+}
+
+.btn-check {
+    color:#606C38
+}
+
+.footer{
+    background-color: #DDA15E;
+    color: #283618;
+    border-top: black;
+    border-width: 5px;
+}
+
 .navbar-brand {
     font-family: "Open Sans", serif;
     /*change the font name for what you have*/
